@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Diego Martins
 
 💻 **Analista e Técnico de Tecnologia da Informação** com experiência em administração de redes, segurança da informação e desenvolvimento de soluções para o setor público.  
-📍 Goiânia, Goiás – Brasil  
-🎯 Servidor Público Federal na **Universidade Federal de Goiás (UFG)**
+📍 Goiás – Brasil  
+<!--🎯 Servidor Público Federal na **Universidade Federal de Goiás (UFG)**-->
 
 ---
 
@@ -24,10 +24,10 @@
 ---
 
 ## 📂 Projetos em Destaque
-
+<!--
 ### 🔹 Repositório Pessoal
 - Em atualização!
-
+-->
 ### 🔹 Projetos TI-FCT
 - **[Suporte-Cercomp](#)** – Sistema modular em Python/PyQt6 para gestão de manutenção de laboratórios (GPO, renomeação de computadores, limpeza, widget de aviso, etc.).
 - **[Painel-Interativo](#)** – Painel WebView/Python/PyQt6 para interação via mouse, com quiz de conhecimentos gerais e ranking.
