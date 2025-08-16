@@ -28,7 +28,6 @@
 - **[Calculadora](#)** – Calculadora multiplataforma para brasileiros!
 - **[OpenSignage](#)** – Sistema de digital signage gratuito para pequenos negócios.
 - **[MeuPedido](#)** – Sistema de pedidos gratuito para pequenos negócios.
-- *[Veja aqui](https://github.com/diegogyn?tab=repositories)*
 
 ### 🔹 Projetos na UFG
 - **[Suporte-Cercomp](#)** – Sistema modular em Python/PyQt6 para gestão de manutenção de laboratórios sem AD (GPO, renomeação de computadores, limpeza, widget de aviso, etc.).
