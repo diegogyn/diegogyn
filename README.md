@@ -1,52 +1,54 @@
 # 👋 Olá, eu sou Diego Martins
 
-💻 **Analista e Técnico de Tecnologia da Informação** com experiência em administração de redes, segurança da informação e desenvolvimento de soluções para o setor público.  
-📍 Goiás – Brasil 
+💻 **Analista de Tecnologia da Informação** com experiência em infraestrutura, automação e desenvolvimento de soluções para o setor público.  
+📍 Goiás – Brasil  
 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Especialista em **Redes e Sistemas** (UFG)
-- 🛠 Experiência prática em **infraestrutura, suporte técnico, automação em Python e administração de servidores**
-- 🔍 Foco em soluções para **gestão de TI em instituições públicas** e **otimização de processos internos**
+- 🎓 Especialização em **Gestão, Redes e Sistemas**
+- 🛠 Atuação em **infraestrutura de TI, administração de servidores, automação e desenvolvimento de ferramentas**
+- 🔎 Interesse em **modernização da gestão pública, otimização de processos e soluções open source**
 
 ---
 
 ## 🛠 Tecnologias e Ferramentas
-- **Linguagens:** Python, Bash, SQL, Kotlin, Javascript
-- **Sistemas Operacionais:** Windows, Linux e Android
-- **Infraestrutura:** Virtualização, Proxmox, pFsense, Linux
-- **Ferramentas:** Git, Android Studio, Linux
-- **Segurança:** Hardening, Controle de Acesso, Monitoramento
+- **Linguagens:** Python, Bash, SQL, Kotlin, JavaScript  
+- **Sistemas Operacionais:** Linux, Windows, Android  
+- **Infraestrutura:** Virtualização, Proxmox, pfSense, servidores Linux  
+- **Ferramentas:** Git, Android Studio, automação e scripts  
+- **Segurança:** Hardening, controle de acesso e monitoramento
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🔹 Repositório Pessoal
-- **[MinhaCidade](#)** – Sistema de chamados de cidadãos para municípios.
-- **[Calculadora](#)** – Calculadora multiplataforma para brasileiros!
-- **[OpenSignage](#)** – Sistema de digital signage gratuito para pequenos negócios.
-- **[MeuPedido](#)** – Sistema de pedidos gratuito para pequenos negócios.
+Alguns projetos focados em **automação, serviços digitais e ferramentas para gestão de TI**.
 
-### 🔹 Projetos na UFG
-- **[Suporte-Cercomp](#)** – Sistema modular em Python/PyQt6 para gestão de manutenção de laboratórios sem AD (GPO, renomeação de computadores, limpeza, widget de aviso, etc.).
-- **[Painel-Interativo](#)** – Painel em Python para interação via mouse, com quiz de conhecimentos gerais e ranking.
-- **[Painel-Informativo](#)** – Painel de sinalização interna feito em JS para o campus da universidade.
-- **[Terminal-Consulta](#)** – Terminal de consulta multiplataforma desenvolvido para alunos em Kotlin.
-- *[Veja aqui](https://github.com/ti-fct)*
+**Projetos pessoais**
+- **Observatorio-ATI** — Plataforma com dados da carreria de ATI
+
+**Projetos acadêmicos / institucionais**
+- **Suporte-Cercomp** — Ferramenta de gestão e manutenção de laboratórios  
+- **Painel Interativo** — Sistema interativo com quizzes e ranking  
+- **Painel Informativo** — Plataforma de sinalização digital para ambientes institucionais  
+- **Terminal de Consulta** — Aplicação multiplataforma para acesso a informações acadêmicas  
+
+🔗 Repositórios institucionais:  
+https://github.com/ti-fct
 
 ---
 
 ## 📈 Estatísticas do GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegogyn&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogyn&layout=compact&theme=radical)
 
 ---
 
-## 📫 Como me encontrar
-- **E-mail:** diego.martins@ufg.br
+## 📫 Contato
+**E-mail:** diego.martins@ufg.br  
 
 ---
 
-⭐ *Sempre aberto a colaborar em projetos de tecnologia voltados para eficiência, automação e inovação.*
+⭐ Interesse em projetos relacionados a **automação, infraestrutura, dados e modernização da administração pública**.
