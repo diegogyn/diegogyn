@@ -13,10 +13,10 @@
 ---
 
 ## 🛠 Tecnologias e Ferramentas
-- **Linguagens:** Python, Bash, SQL, Kotlin, JavaScript  
+- **Linguagens:** Python, Bash, SQL, Flutter, JavaScript/Typescript  
 - **Sistemas Operacionais:** Linux, Windows, Android  
-- **Infraestrutura:** Virtualização, Proxmox, pfSense, servidores Linux  
-- **Ferramentas:** Git, Android Studio, automação e scripts  
+- **Infraestrutura:** Virtualização, Proxmox, pfSense, servidores Linux/Windows
+- **Ferramentas:** Git, vscode, automação e scripts  
 - **Segurança:** Hardening, controle de acesso e monitoramento
 
 ---
